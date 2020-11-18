@@ -678,11 +678,11 @@ a[data-toggle="collapse"] {
   .home-category-list .home-box-category {
     position: relative;
     width: 50%;
-    height: 85px;
+    height: 100px;
     overflow: hidden;
     float: left;
     border: 5px solid #ffffff;
-    border-radius: 10px; }
+    border-radius: 15px; }
   .home-category-list .home-text-category {
     display: table;
     position: relative;
