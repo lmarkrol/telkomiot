@@ -123,7 +123,7 @@ img {
   color:#b70000; }
 
 .theme-button:hover {
-  background-color: #708a00; }
+  background-color:#880101; }
 
 ul.slick-dots li button {
   width: 15px;
@@ -1412,7 +1412,7 @@ a[data-toggle="collapse"] {
     margin-bottom: 5px;
     border: 1px solid #cecece; }
   .gallery-section .filter-button.active {
-    color: #708a00; }
+    color:#880101; }
   .gallery-section .gallery-img-box,
   .gallery-section .gallery-img-box * {
     -webkit-transition: all 0.5s ease-in-out;
@@ -1754,7 +1754,7 @@ body.preview {
     border-radius: 90px;
     cursor: pointer; }
   body.preview .buy-now .bn:hover {
-    background-color: #708a00; }
+    background-color:#880101; }
   body.preview .content-left .mobileframe .preview-mobile-frame {
     background-color: #ffffff;
     overflow: hidden; }
